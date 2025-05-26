@@ -8,3 +8,5 @@ This Flashcards Quiz App is a simple app that quizzes users on historical facts 
 
 youtube vid
 https://youtu.be/uWbsOA3_YsA?si=l5YCRv6z63raHqiz
+link to repository 
+https://github.com/ST10467527/IMAD-assignment-2
